@@ -1,0 +1,57 @@
+CISSP 30 questions benchmark:
+
+Model: openchat/openchat-7b Temperature: 0.0
+Total guess: 15
+Total score: 33
+Total missed: 1
+Accuracy: 0.45
+Model: cognitivecomputations/dolphin-mixtral-8x7b Temperature: 0.0
+Total guess: 17
+Total score: 33
+Total missed: 7
+Accuracy: 0.52
+Model: undi95/toppy-m-7b Temperature: 0.0
+Total guess: 15
+Total score: 33
+Total missed: 4
+Accuracy: 0.45
+Model: anthropic/claude-2 Temperature: 0.0
+Total guess: 22
+Total score: 33
+Total missed: 5
+Accuracy: 0.67
+Model: openchat/openchat-7b Temperature: 0.5
+Total guess: 16
+Total score: 33
+Total missed: 1
+Accuracy: 0.48
+Model: openchat/openchat-7b Temperature: 1.0
+Total guess: 15
+Total score: 33
+Total missed: 2
+Accuracy: 0.45
+Model: cognitivecomputations/dolphin-mixtral-8x7b Temperature: 0.5
+Total guess: 21
+Total score: 33
+Total missed: 4
+Accuracy: 0.64
+Model: cognitivecomputations/dolphin-mixtral-8x7b Temperature: 1.0
+Total guess: 14
+Total score: 33
+Total missed: 11
+Accuracy: 0.42
+Model: undi95/toppy-m-7b Temperature: 0.5
+Total guess: 17
+Total score: 33
+Total missed: 3
+Accuracy: 0.52
+Model: anthropic/claude-2 Temperature: 0.5
+Total guess: 21
+Total score: 33
+Total missed: 7
+Accuracy: 0.64
+Model: anthropic/claude-2 Temperature: 1.0
+Total guess: 23
+Total score: 33
+Total missed: 5
+Accuracy: 0.70

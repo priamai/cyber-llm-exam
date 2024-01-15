@@ -1,0 +1,77 @@
+CISSP 30 questions benchmark:
+
+Model: gpt-3.5-turbo-instruct Temperature: 0.0
+Total guess: 18
+Total score: 33
+Total missed: 0
+Accuracy: 0.55
+Model: gpt-3.5-turbo-instruct Temperature: 0.5
+Total guess: 16
+Total score: 33
+Total missed: 1
+Accuracy: 0.48
+Model: gpt-3.5-turbo-instruct Temperature: 1.0
+Total guess: 15
+Total score: 33
+Total missed: 3
+Accuracy: 0.45
+Model: gpt-3.5-turbo Temperature: 0.0
+Total guess: 18
+Total score: 33
+Total missed: 2
+Accuracy: 0.55
+Model: gpt-3.5-turbo Temperature: 0.5
+Total guess: 23
+Total score: 33
+Total missed: 1
+Accuracy: 0.70
+Model: gpt-3.5-turbo Temperature: 1.0
+Total guess: 20
+Total score: 33
+Total missed: 0
+Accuracy: 0.61
+Model: gpt-3.5-turbo-1106 Temperature: 0.0
+Total guess: 15
+Total score: 33
+Total missed: 9
+Accuracy: 0.45
+Model: gpt-3.5-turbo-1106 Temperature: 0.5
+Total guess: 15
+Total score: 33
+Total missed: 9
+Accuracy: 0.45
+Model: gpt-3.5-turbo-1106 Temperature: 1.0
+Total guess: 14
+Total score: 33
+Total missed: 11
+Accuracy: 0.42
+Model: gpt-4 Temperature: 0.0
+Total guess: 26
+Total score: 33
+Total missed: 1
+Accuracy: 0.79
+Model: gpt-4 Temperature: 0.5
+Total guess: 27
+Total score: 33
+Total missed: 2
+Accuracy: 0.82
+Model: gpt-4 Temperature: 1.0
+Total guess: 27
+Total score: 33
+Total missed: 2
+Accuracy: 0.82
+Model: gpt-4-1106-preview Temperature: 0.0
+Total guess: 31
+Total score: 33
+Total missed: 0
+Accuracy: 0.94
+Model: gpt-4-1106-preview Temperature: 0.5
+Total guess: 30
+Total score: 33
+Total missed: 0
+Accuracy: 0.91
+Model: gpt-4-1106-preview Temperature: 1.0
+Total guess: 32
+Total score: 33
+Total missed: 0
+Accuracy: 0.97
